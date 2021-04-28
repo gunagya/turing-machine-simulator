@@ -1,0 +1,2 @@
+All programs present in the "Web" folder contain programs for https://turingmachinesimulator.com/
+All programs present in the "Local" folder contain programs for the simulator present in the repository.

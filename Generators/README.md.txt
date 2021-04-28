@@ -1,0 +1,2 @@
+All generators present in the "Web" folder generate programs for https://turingmachinesimulator.com/
+All generators present in the "Local" folder generate programs for the simulator present in the repository.
