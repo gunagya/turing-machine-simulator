@@ -1,6 +1,3 @@
-name: Multiplication
-init: P1
-accept: H
 P1 0 __ P1 0__ >--
 P1 1 __ P1 1__ >--
 P1 2 __ P1 2__ >--
